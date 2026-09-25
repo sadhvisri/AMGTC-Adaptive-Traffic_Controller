@@ -1,0 +1,46 @@
+AMTGC FINAL INTERNSHIP SUBMISSION PACKAGE
+==========================================
+
+SOURCE
+------
+rtl/  Final Verilog RTL
+ tb/  All testbenches
+sim/  ModelSim run_all.do and simulation notes
+AMTGC.mpf  ModelSim project file
+
+DOCUMENTATION
+-------------
+docs/AMTGC_Final_Technical_Documentation.pdf   Main professional report with pictures
+docs/AMTGC_Final_Technical_Documentation.docx  Editable report
+docs/Task1_Architecture_and_Planning.md
+docs/Task2_Parameterized_RTL_Design.md
+docs/Task3_System_Integration.md
+docs/Task4_Adaptive_Timing.md
+docs/Task5_Verification_and_Coverage.md
+docs/Task6_Professional_Delivery.md
+docs/BUG_LOG.md
+docs/ASSUMPTIONS_DOCUMENT.md
+docs/SELF_ATTESTATION_CHECKLIST.md
+docs/VERIFICATION_COVERAGE_MATRIX.md
+docs/FINAL_VERIFICATION_SUMMARY.md
+docs/Demo_Video_Script.md
+docs/README.md
+
+EVIDENCE
+--------
+waveforms/  ModelSim waveform and PASS screenshots
+ diagrams/  Architecture and FSM diagrams
+verification/  Final Task 5 transcript
+
+VIDEO
+-----
+video/AMTGC_Demonstration_Video.mp4
+video/README.txt
+
+EXTERNAL ITEMS THAT MUST BE VERIFIED BEFORE ONE-TIME SUBMISSION
+-----------------------------------------------------------------
+1. Public GitHub repository URL — test in an incognito/private browser window.
+2. Public demonstration-video URL — test in an incognito/private browser window.
+3. Student name, college/university and internship organization — enter exactly as required by the portal.
+
+The portal states that the submission is one-time and cannot be edited after submission. Do not click Submit until these external checks are complete.

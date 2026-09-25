@@ -1,0 +1,28 @@
+AMTGC FINAL VERIFICATION EVIDENCE
+===================================
+
+PASS reset during active operation
+PASS randomized traffic-density run: 200 cycles
+PASS pedestrian fairness over 120 grants: A=60 B=60
+PASS emergency during phase 0
+PASS emergency during phase 1
+PASS emergency during phase 2
+PASS emergency during phase 3
+PASS emergency during phase 4
+PASS emergency during phase 5
+PASS green-wave combo A_density=0 B_density=7 offset=2 cycles
+PASS green-wave combo A_density=1 B_density=6 offset=2 cycles
+PASS green-wave combo A_density=2 B_density=5 offset=2 cycles
+PASS green-wave combo A_density=4 B_density=3 offset=2 cycles
+PASS green-wave combo A_density=7 B_density=0 offset=2 cycles
+
+TASK 5 FULL VERIFICATION: PASS
+Randomized density cycles = 200
+Pedestrian grants checked = 120
+Pedestrian A/B grants = 60 / 60
+Emergency tested during all six traffic phases
+Green-wave checked for five density combinations
+Reset during active operation checked
+
+Simulation errors: 0
+Simulation warnings: 0
